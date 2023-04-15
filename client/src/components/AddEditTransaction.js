@@ -62,6 +62,7 @@ function AddEditTransaction({ setShowAddEditTransactionModel, showAddEditTransac
                         <Select.Option value="investment">Investment</Select.Option>
                         <Select.Option value="misc">Miscellaneous</Select.Option>
                         
+
                     </Select>
                 </Form.Item>
 
